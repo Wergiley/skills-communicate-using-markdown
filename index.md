@@ -20,8 +20,13 @@ Existem seis tamanhos de cabeçalho:
 ---
 
 ## Imagem de exemplo (com texto descritivo)
-![Yaktocat, o mascote do GitHub, com corpo de gato e rosto inspirado em um iaque, usando camiseta preta e sorrindo, em estilo de ilustração simples.](https://octodex.github.com/images/yaktocat.png)]
+![Yaktocat, o mascote do GitHub, com corpo de gato e rosto inspirado em um iaque, usando camiseta preta e sorrindo, em estilo de ilustração simples.](https://octodex.github.com/images/yaktocat.png)
 
 ---
 
-###### Criado com ❤️ usando Markdown no GitHub
+## Exemplo de código
+```bash
+$ git status
+No branch
+No commits yet
+nothing to commit (create/copy files and use "git add" to track)
