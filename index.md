@@ -17,6 +17,10 @@ Existem seis tamanhos de cabeçalho:
 ## Este é um `<h2>`
 ###### Este é um `<h6>` — o menor
 
+- [X] Ativar GitHub Pages
+- [X] Criar o esboço do meu portfólio
+- [ ] Me apresentar para o mundo
+
 ---
 
 ## Imagem de exemplo (com texto descritivo)
